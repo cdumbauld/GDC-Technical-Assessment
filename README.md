@@ -1,1 +1,0 @@
-# GDC-Technical-Assessment
